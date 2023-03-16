@@ -36,6 +36,7 @@ export const characters = [
                 <br /> Adjusts the throwing direction of Baron Bunny. The longer
                 the button is held, the further the throw.`,
     ebdesc: `Fires off a shower of arrows, dealing continuous AoE Pyro DMG.`,
+    test: "ummt",
   },
 
   //   {
