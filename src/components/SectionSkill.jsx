@@ -1,5 +1,4 @@
 import { Tab } from "@headlessui/react";
-import Bow from "../assets/Bow_Pyro.webp";
 import { Fragment } from "react";
 
 import NormalAttackImg from "../assets/NormalAttack.png";

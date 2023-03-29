@@ -10,7 +10,7 @@ function SectionIntro() {
           key={item}
           className=" my-2 p-1 bg-white dark:bg-[#2f3237] bg-clip-border shadow-lg rounded-xl flex flex-col justify-center items-center gap-4 md:flex-row"
         >
-          <div className=" flex-1 xl:mb-3">
+          <div className=" flex-1 xl mb-3">
             <img className=" max-w-full h-auto " src={item.imgpath} alt="" />
           </div>
           <div className=" flex-1 my-1 p-4">
