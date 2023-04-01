@@ -98,7 +98,7 @@ function Home() {
             </div>
           </nav>
           <Routes>
-            <Route path="/" element={<FilterPage />} />
+            <Route path="/CharacterWeb" element={<FilterPage />} />
             <Route path="/characters" element={<SectionIntro />} />
             <Route path="/characters" element={<SectionIntro />} />
             <Route path="/weapons" element={<SectionDetails />} />
